@@ -1,2 +1,3 @@
 
-![Roll](https://media.tenor.com/images/38cb517b5ccd46e10551e819a0970771/tenor.gif)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nedackland)](https://github.com/nedackland/github-readme-stats)
